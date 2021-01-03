@@ -32,6 +32,8 @@
     - PintOS 학습
     - Problem Solving
 - `coco`
+    - LeetCode Problem Solving (매주 최소 5문제)
+    - 영어 원문 번역 (stackoverflow, awesome-interview contents, etc...) 
 - `jaehong2`
 
 ## 일정
