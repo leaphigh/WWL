@@ -35,7 +35,10 @@
     - LeetCode Problem Solving (매주 최소 5문제)
     - 영어 원문 번역 (stackoverflow, awesome-interview contents, etc...) 
 - `jaehong2`
-
+    - Spring 학습
+    - 자료구조 학습
+      - 1.이론 공부(각 자료구조의 정의, 장단점, 특징 etc..)
+      - 2.알고리즘을 문제를 통해 자료구조 알기
 ## 일정
 ### 스터디 참여 현황
 | 주차   | 일자      | 특이사항 |
