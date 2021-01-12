@@ -21,12 +21,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/altera520" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/jaehong2" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34cd3dde-c1dd-4da2-b606-f2c5c43f56bc" name="Default Changelist" comment="Set goal of 1st week">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jaehong2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jaehong2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609493749249</updated>
       <workItem from="1609493750330" duration="25027000" />
-      <workItem from="1609907725552" duration="11523000" />
+      <workItem from="1609907725552" duration="17345000" />
     </task>
     <task id="LOCAL-00001" summary="Set goal of 1st week">
       <created>1609562249111</created>
@@ -95,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/altera520" />
+                        <option value="origin/jaehong2" />
                       </list>
                     </value>
                   </entry>
@@ -113,10 +115,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Set goal of 1st week" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="90" key="DiffContextDialog" timestamp="1609563213888">
+    <state x="184" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1610362709750">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="184" y="90" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609563213888" />
+    <state x="184" y="90" width="1536" height="892" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610362709750" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1609908671245">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
