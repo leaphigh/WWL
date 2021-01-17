@@ -5,15 +5,17 @@
 
 ### 개인공부
   * Spring FrameWork
-    * Spring FrameWork 의존성 주입 방법 학습
-    * Spring FrameWork으로 Session, Cookie 구현 해보기
-    * Spring Container, Bean 생명주기(Life Cycle)학습
+    * ~~Spring FrameWork 의존성 주입 방법 학습~~
+    * ~~Spring FrameWork으로 Session, Cookie 구현 해보기~~
+    * ~~Spring Container, Bean 생명주기(Life Cycle)학습~~
   * 자료구조 
     * 큐(Queue)와 덱(Deque) 학습
 
 ### :punch: 이행 결과물
-
+- [자료구조 : * 큐(Queue)와 원형 큐 학습 대해서 공부](https://jaehong2.github.io/pt-2)
 ### :crying_cat_face: 피드백 & 회고
+- * 자료구조 주제와 관련된 알고리즘 문제를 가지고 설명하는 방법도 생각해보기!
+- * 발표에 있어서 개인적으로 아쉬움이 많음(타인에게 어떤 주제를 논리적으로 설명하는 습관 기르기)
 
 ------------------------------------------------------ 
 ## **1주차** (2021-01-04)
