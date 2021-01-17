@@ -11,14 +11,19 @@
 1. 과거에 학습했던 개념정리하여 블로깅
     - Java Collection
     - JVM
-    - Spring 내부구조
+    - ~~Spring 내부구조~~
     - OSI 7 Layer
 1. 알고리즘 학습 및 PS
     - 투 포인터
     - 슬라이딩 윈도우
-    - 희소 테이블
+    - ~~희소 테이블~~
 
 ### :punch: 이행 결과물
+목표에 리스트업되지 않았으나, 과거 학습자료 정리
+
+- [SOLID](https://www.notion.so/OOP-cc86d1a941ef4a5396dfe43a078e8ba0)
+- [AVL](https://www.notion.so/AVL-Tree-2ea8c240a6d74cfc89ef133c0cc76178)
+- [Red Black](https://www.notion.so/Red-Black-Tree-RB-Tree-cc1ae0707d7642f9a63fa7647924879c)
 
 ### :crying_cat_face: 피드백 & 회고
 
