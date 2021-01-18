@@ -2,6 +2,10 @@
 
 
 <!--
+
+
+
+
 <details><summary> :calendar: [n주차] 00/00 - 00/00 </summary>
 <p>
 
@@ -26,6 +30,31 @@
   
 
 
+
+<details><summary> :calendar: [3주차] 01/18 - 01/23 </summary>
+<p>
+
+### :dart: **목표**
+* LeetCode 최소 4문제 풀이
+* 블로그 포스팅 2개 이상
+* 번역 글 요약 1개 이상
+
+### :scroll: **결과**
+*
+
+
+### :sob: **피드백**
+*
+
+
+### :pencil2: 회고
+*
+
+</p>
+</details>
+
+
+
  
 <details><summary> :calendar: [2주차] 01/11 - 01/16 </summary>
 <p>
@@ -46,14 +75,17 @@
   * :ballot_box_with_check: [Medium] 4문제 (347, 560, 64, 322)
   * :white_large_square: 시도했지만 풀지 못한 문제: 1문제 (525) 
 * Blog Posting
-  * [LeetCode 347번 Top K Frequent Elements](https://github.com/sangwonCoco/note/blob/main/public/algorithm/%5BLeetCode%5D%20Top%20K%20Frequent%20Elements/README.md)
+  * [LeetCode 347번 Top K Frequent Elements](https://github.com/sangwonCoco/coco-blog/blob/main/public/algorithm/%5BLeetCode%5D%20Top%20K%20Frequent%20Elements/README.md)
 
 ### :sob: **피드백**
-*
+* 
 
 
 ### :pencil2: 회고
-*
+* 스터디에서 정한 주간 목표로 완료했으나 그 이외 개별적인 목표들은 많은 아쉬움이 남는 한 주 였다.
+* 다음주 부터는 번역의 경우 글 내의 모든 내용을 번역하는 것이 아니라 핵심 내용만 정리하는 형태로 수행 방식에 변화를 줘야겠다. 또한 블로그 포스팅의 경우 알고리즘 문제 1개, 기타 주제 1개로 잡고 포스팅 횟수를 늘려야겠다. 
+
+
 </p>
 </details>
  
