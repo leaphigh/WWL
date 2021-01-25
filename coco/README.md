@@ -29,6 +29,61 @@
  -->
   
 
+<details><summary> :calendar: [4주차] 01/25 - 01/30 </summary>
+<p>
+
+### :dart: **목표**
+* LeetCode 최소 4문제 풀이
+* 블로그 포스팅 2개 이상
+
+### :scroll: **결과**
+* 
+
+### :sob: **피드백**
+* 
+
+
+### :pencil2: 회고
+* 
+
+</p>
+</details>
+
+
+
+<details><summary> :calendar: [3주차] 01/18 - 01/23 </summary>
+<p>
+
+### :dart: **목표**
+* LeetCode 최소 4문제 풀이
+* 블로그 포스팅 2개 이상
+* 번역 글 요약 1개 이상
+
+### :scroll: **결과**
+* LeetCode 최소 2/4문제 풀이
+  * [:arrow_upper_right: Link](/coco/algorithm/2021-03st.md)
+  * :ballot_box_with_check: [Medium] 2문제 (139, 5)
+  * :white_large_square: 시도했지만 풀지 못한 문제: 3문제 (91, 53, 647, 416, 518) 
+* 블로그 포스팅 2개
+  * :ballot_box_with_check: [:arrow_upper_right: [LeetCode] Word Break](https://sangwoncoco.github.io/post/leetcode/20210121-leetcode-139-word-break/)
+  * :ballot_box_with_check: [:arrow_upper_right: equals()와 hashcode()](https://sangwoncoco.github.io/post/java/20210121-java-equals-and-hashcode/)
+* :white_large_square: 번역 글 요약 1개 이상
+
+
+### :sob: **피드백**
+* 블로그 포스팅 피드백
+  * 포스팅에서 이해를 돕기 위해 보여주는 도식은 기능성, 편의성 측면에서 ppt 보다 draw.io 추천한다.
+  * 포스팅 작성 스타일은 본인 선택이나, 현재까지의 포스팅에서 글을 표현하는 방식이 너무 나열식이다. 포스팅 목적이 본인을 위한 글일 수도 있고 다른 사람들에게 공유하기 위한 글일 수 있는데 만약 공유를 목적으로 하는 글에서는 현재의 방식이 난해해 보일 수 있다고 생각한다.
+
+
+### :pencil2: 회고
+* 전체적으로 원하는 목표를 달성하지 못한 한 주 였다. 여러 이유가 복합적으로 얽혀 있지만 핑계는 대지 말자. 그렇다고 너무 자책하지도 말자.
+* 좀 저 멀리 보고 공부 계획을 세워야겠다. *스스로 판단* 했을 때 나에게 남는 일을 하자. 
+
+</p>
+</details>
+
+
 
 
 <details><summary> :calendar: [3주차] 01/18 - 01/23 </summary>
