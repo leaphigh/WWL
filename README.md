@@ -32,8 +32,7 @@
     - PintOS 학습
     - Problem Solving
 - `coco`
-    - LeetCode Problem Solving (매주 최소 5문제)
-    - 영어 원문 번역 (stackoverflow, awesome-interview contents, etc...) 
+    - LeetCode Problem Solving & Posting
 - `jaehong2`
     - Spring FrameWork 학습
     - 자료구조 학습
