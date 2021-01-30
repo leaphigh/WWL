@@ -37,7 +37,14 @@
 * 블로그 포스팅 2개 이상
 
 ### :scroll: **결과**
-* 
+* LeetCode 최소 7문제 풀이
+  * [:arrow_upper_right: Link](/coco/algorithm/2021-04st.md)
+  * :ballot_box_with_check: [Easy] 1문제
+  * :ballot_box_with_check: [Medium] 5문제
+  * :ballot_box_with_check: [Medium] 1문제
+* 블로그 포스팅 2개
+  * :ballot_box_with_check: [:arrow_upper_right: 컴퓨터 성능 향상의 역사와 다양한 병렬 컴퓨팅 기법](https://sangwoncoco.github.io/post/computer/20210128-computer-performence-history-and-parallel-technique/)
+  * :ballot_box_with_check: 그 외 알고리즘 문제 포스팅
 
 ### :sob: **피드백**
 * 
