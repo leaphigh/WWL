@@ -16,18 +16,36 @@
 *
 
 
-### :sob: **피드백**
-*
+### :scroll: **결과**
+* 
 
-
-### :pencil2: 회고
-*
+### :pencil2: 회고 및 피드백
+* 
 
 </p>
 </details>
 
  -->
-  
+
+
+
+<details><summary> :calendar: [5주차] 02/01 - 02/06 </summary>
+<p>
+
+### :dart: **목표**
+* LeetCode 최소 3문제 풀이
+* 블로그 포스팅 최소 1개 (알고리즘 제외)
+
+### :scroll: **결과**
+* 
+
+### :pencil2: 회고 및 피드백
+* 
+
+</p>
+</details>
+
+
 
 <details><summary> :calendar: [4주차] 01/25 - 01/30 </summary>
 <p>
@@ -37,7 +55,7 @@
 * 블로그 포스팅 2개 이상
 
 ### :scroll: **결과**
-* LeetCode 최소 7문제 풀이
+* LeetCode 7문제 풀이
   * [:arrow_upper_right: Link](/coco/algorithm/2021-04st.md)
   * :ballot_box_with_check: [Easy] 1문제
   * :ballot_box_with_check: [Medium] 5문제
@@ -46,12 +64,9 @@
   * :ballot_box_with_check: [:arrow_upper_right: 컴퓨터 성능 향상의 역사와 다양한 병렬 컴퓨팅 기법](https://sangwoncoco.github.io/post/computer/20210128-computer-performence-history-and-parallel-technique/)
   * :ballot_box_with_check: 그 외 알고리즘 문제 포스팅
 
-### :sob: **피드백**
-* 
 
-
-### :pencil2: 회고
-* 
+### :pencil2: 회고 및 피드백
+언뜻보면 4주차도 무난하게 지나간듯 하다. 그러나 스스로 되돌아보고 회고하기에 전혀 그렇지 않다. 모든 것이 엉망이다. 분명 1월 중순에 들어서기 전에는 지금과 달랐었다. 토요일 스터디 이후 지금까지 "무엇이 문제일까?", "그때와 지금은 무엇이 다른가?" 진중하게 고민해본 후에야 무엇이 문제인지 구체적으로 알 것 같았고, 나름의 해결 방안을 마련했으며 내일 부터 이를 적용해볼 생각이다.
 
 </p>
 </details>
@@ -91,29 +106,6 @@
 </details>
 
 
-
-
-<details><summary> :calendar: [3주차] 01/18 - 01/23 </summary>
-<p>
-
-### :dart: **목표**
-* LeetCode 최소 4문제 풀이
-* 블로그 포스팅 2개 이상
-* 번역 글 요약 1개 이상
-
-### :scroll: **결과**
-*
-
-
-### :sob: **피드백**
-*
-
-
-### :pencil2: 회고
-*
-
-</p>
-</details>
 
 
 
