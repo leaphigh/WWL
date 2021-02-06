@@ -37,7 +37,9 @@
 * 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :scroll: **결과**
-* 
+* white_large_square LeetCode 2/3문제 풀이
+  * [:arrow_upper_right: Link](/coco/algorithm/2021-05st.md)
+* white_large_square 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :pencil2: 회고 및 피드백
 * 
