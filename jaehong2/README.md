@@ -5,10 +5,10 @@
 
 ### 개인공부
   * 네트워크
-    * http 1.1, http2, https 학습
+    * http 1.1, http2, ~~https~~ 학습
 
 ### :punch: 이행 결과물
--  
+- [네트워크 : http 0.9 ~ 2.0 학습](https://jaehong2.github.io/pt-5)
 ### :crying_cat_face: 피드백 & 회고
   - 
 ------------------------------------------------------ 
