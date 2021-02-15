@@ -6,6 +6,20 @@
 
 # 주간 목표
 
+## **7주차** (2021-02-15)
+### :running: 목표 설정
+
+1. 과거 학습했던 내용 복습 및 재정리
+    - JSP & Servlet 설정 정리
+    - Spring 기초 내용 정리
+    - DB 개념 정리
+
+### :punch: 이행 결과물
+
+### :crying_cat_face: 피드백 & 회고
+
+------------------------------------------------------      
+
 ## **5주차** (2021-02-01)
 ### :running: 목표 설정
 
@@ -16,7 +30,7 @@
 1. 알고리즘 학습 및 PS
 
 ### :punch: 이행 결과물
-- [Tomcat 정리](http://localhost:1313/posts/2021-01-12-tomcat/)
+- [Tomcat 정리](http://altera520.github.io/posts/2021-01-12-tomcat/)
 
 ### :crying_cat_face: 피드백 & 회고
 
