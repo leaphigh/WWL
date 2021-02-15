@@ -27,6 +27,22 @@
 
  -->
 
+<details><summary> :calendar: [7주차] 02/15 - 02/20 </summary>
+<p>
+
+### :dart: **목표**
+* 블로그 포스팅 최소 1개 (알고리즘 제외)
+
+### :scroll: **결과**
+* white_large_square 블로그 포스팅 최소 1개 (알고리즘 제외)
+
+### :pencil2: 회고 및 피드백
+* 
+
+</p>
+</details>
+
+
 
 
 <details><summary> :calendar: [5주차] 02/01 - 02/06 </summary>
