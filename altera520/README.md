@@ -10,11 +10,17 @@
 ### :running: 목표 설정
 
 1. 과거 학습했던 내용 복습 및 재정리
-    - JSP & Servlet 설정 정리
-    - Spring 기초 내용 정리
-    - DB 개념 정리
+    - ~~JSP & Servlet 설정 정리~~
+    - ~~Spring 기초 내용 정리~~
+    - ~~DB 개념 정리~~
 
 ### :punch: 이행 결과물
+
+- [자바8 변경사항 - 람다식](https://altera520.github.io/posts/2021-02-17-java8-features-1st/)
+- [자바8 변경사항 - Date, Time API](https://altera520.github.io/posts/2021-02-18-java8-features-3rd/)
+- 자바8 변경사항 - 스트림 (정리중)
+- Hugo 블로그에 Algolia 적용완료 (정리중)
+    - Algolia 적용 방법은 포스트 작성완료 후 공유예정
 
 ### :crying_cat_face: 피드백 & 회고
 
