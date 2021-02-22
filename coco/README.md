@@ -26,6 +26,25 @@
 </details>
 
  -->
+ 
+<details><summary> :calendar: [8주차] 02/22 - 02/27 </summary>
+<p>
+
+### :dart: **목표**
+* 블로그 알고리즘 관련 포스팅 1개
+
+### :scroll: **결과**
+* :white_large_square: 블로그 알고리즘 관련 포스팅 1개
+
+### :pencil2: 회고 및 피드백
+* 
+
+</p>
+</details>
+ 
+ 
+ 
+ 
 
 <details><summary> :calendar: [7주차] 02/15 - 02/20 </summary>
 <p>
@@ -34,7 +53,7 @@
 * 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :scroll: **결과**
-* white_large_square 블로그 포스팅 최소 1개 (알고리즘 제외)
+* :white_large_square: 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :pencil2: 회고 및 피드백
 * 알고리즘 문제 포스팅 밖에 작성하지 못했다. 다음주 부터 취업 준비 하는 기간 동안은 알고리즘 문제만 포스팅 하도록 목표를 재설정 해야겠다.
@@ -54,9 +73,9 @@
 * 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :scroll: **결과**
-* white_large_square LeetCode 2/3문제 풀이
+* :white_large_square: LeetCode 2/3문제 풀이
   * [:arrow_upper_right: Link](/coco/algorithm/2021-05st.md)
-* white_large_square 블로그 포스팅 최소 1개 (알고리즘 제외)
+* :white_large_square: 블로그 포스팅 최소 1개 (알고리즘 제외)
 
 ### :pencil2: 회고 및 피드백
 * 
