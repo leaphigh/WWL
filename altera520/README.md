@@ -19,6 +19,10 @@
 1. PS 문제는 꾸준히
 
 ### :punch: 이행 결과물
+- [자바 고양이 Tomcat](https://altera520.github.io/posts/2021-02-23-tomcat/)
+- [Servlet 정의](https://altera520.github.io/posts/2021-02-23-servlet/)
+- [프로그래머스 - 배달](https://programmers.co.kr/learn/courses/30/lessons/12978) solving
+- [프로그래머스 - 기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) solving
 
 ### :crying_cat_face: 피드백 & 회고
 
