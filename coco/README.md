@@ -38,7 +38,6 @@
 ### :scroll: **결과**
 * :white_large_square: 블로그 알고리즘 관련 포스팅 1개
 * :ballot_box_with_check: 알고리즘 문제 풀이
-
 ### :pencil2: 회고 및 피드백
 * 
 
