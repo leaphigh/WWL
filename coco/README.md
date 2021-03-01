@@ -28,7 +28,23 @@
 :white_large_square:
 :ballot_box_with_check:
  -->
- 
+
+<details><summary> :calendar: [9주차] 03/01 - 03/07 </summary>
+<p>
+
+### :dart: **목표**
+* [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
+
+### :scroll: **결과**
+* :white_large_square: [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
+
+### :pencil2: 회고 및 피드백
+
+
+</p>
+</details>
+
+
 <details><summary> :calendar: [8주차] 02/22 - 02/27 </summary>
 <p>
 
@@ -38,8 +54,11 @@
 ### :scroll: **결과**
 * :white_large_square: 블로그 알고리즘 관련 포스팅 1개
 * :ballot_box_with_check: 알고리즘 문제 풀이
+
 ### :pencil2: 회고 및 피드백
-* 
+알고리즘 문제를 풀고 블로그 글을 작성하려 하니 이에 낭비되는 에너지 소모가 심한 걸 느꼈다. 아무래도 개인 노트가 아닌 공개적인 장소에 글을 작성해야 하니 그런것 같다. 지금은 에너지 분산을 최소화 해야 하는 시점이기도 하니 당분간은 블로그 포스팅 보다는 개인 노트에 문제 풀이 사고 과정 및 학습 내용을 적립해 나가는 식으로 공부해야겠다. 
+
+그리고 만약 여유가 생긴 후 다시 블로깅을 시작하게 된다면 팩트에 기반한 기술 관련 글(대부분은 팩트가 아닌 똥들) 보다는 나만의 깊은 고찰을 거친 주관적인 생각이나 회고에 대한 글들을 올려야겠다. 왜냐하면 인터넷에는 부정확한 내용을 사실인 것 마냥 적어 놓은 많은 똥 들이 있고 나 또한 그런 똥 글을 작성하지 않을 거란 확신이 없기 때문이다.
 
 </p>
 </details>
