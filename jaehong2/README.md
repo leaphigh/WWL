@@ -7,7 +7,7 @@
   *  Jsp, Spring 복습 및 새로운 내용 학습 
 
 ### :punch: 이행 결과물
-  - 
+  - [Servlet, ServletContainer, JSP 복습](https://jaehong2.github.io/pt-9-2)
 ### :crying_cat_face: 피드백 & 회고
   -
 ------------------------------------------------------
