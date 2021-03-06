@@ -36,7 +36,7 @@
 * [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
 
 ### :scroll: **결과**
-* :white_large_square: [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
+* :ballot_box_with_check: [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
 
 ### :pencil2: 회고 및 피드백
 
