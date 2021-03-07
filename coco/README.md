@@ -29,6 +29,22 @@
 :ballot_box_with_check:
  -->
 
+<details><summary> :calendar: [10주차] 03/08 - 03/13 </summary>
+<p>
+
+### :dart: **목표**
+* [Design Circular Deque 문제 풀이](https://leetcode.com/problems/design-circular-deque/)
+
+### :scroll: **결과**
+
+
+### :pencil2: 회고 및 피드백
+
+</p>
+</details>
+
+
+
 <details><summary> :calendar: [9주차] 03/01 - 03/07 </summary>
 <p>
 
@@ -39,7 +55,8 @@
 * :ballot_box_with_check: [LRU Cache 문제 풀이](https://leetcode.com/problems/lru-cache/)
 
 ### :pencil2: 회고 및 피드백
-
+- 시간이 좀 걸리더라도 LRU 알고리즘에 대해 블로깅하는 것을 권함.
+- 본격적으로 취업 준비 한지가 2개월이 넘어가지만, 뭐 하나 안정적으로 준비된 게 없다. 이유는 이것도 해야되고 저것도 해야된단 생각에 마음에 여유가 없어서 그런 것이다. 아예 하반기에 취업 한단 생각으로 마음 놓고 하나씩 해야겠다. (단 이번 시즌 동안 꾸준히 지원하면서 마스터 자소서 꾸준히 다듬고, 인성 면접, 프로젝트 면접은 확실하게 준비하기!!)
 
 </p>
 </details>
