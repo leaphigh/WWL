@@ -36,7 +36,7 @@
 * [Design Circular Deque 문제 풀이](https://leetcode.com/problems/design-circular-deque/)
 
 ### :scroll: **결과**
-
+* :ballot_box_with_check: [Design Circular Deque 문제 풀이](https://leetcode.com/problems/design-circular-deque/)
 
 ### :pencil2: 회고 및 피드백
 
