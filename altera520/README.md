@@ -6,11 +6,33 @@
 
 # 주간 목표
 
+## **11주차** (2021-03-15)
+### :running: 목표 설정
+1. 과거 학습했던 내용 재정리
+    - DB 정규화
+    - DB Join
+    - HTTP 관련 내용
+
+1. PS 문제는 꾸준히
+
+### :punch: 이행 결과물
+
+------------------------------------------------------
+
 ## **10주차** (2021-03-08)
+### :running: 목표 설정
 1. 과거 학습했던 내용 재정리
     - 스프링 MVC 정리
 
 1. PS 문제는 꾸준히
+
+### :punch: 이행 결과물
+- [add-two-numbers](https://github.com/Altera520/PS-code-set/blob/main/leetcode/medium/add-two-numbers.java)
+- [binary-tree-level-order-traversal](https://github.com/Altera520/PS-code-set/blob/main/leetcode/medium/binary-tree-level-order-traversal.cpp)
+- [jump-game-ii](https://github.com/Altera520/PS-code-set/blob/main/leetcode/medium/jump-game-ii.cpp)
+- Spring MVC는 노션에 우선 정리, 블로깅은 추후 예정
+
+------------------------------------------------------
 
 ## **9주차** (2021-03-01)
 ### :running: 목표 설정
@@ -25,8 +47,6 @@
 
 ### :punch: 이행 결과물
 - [자바 JDBC](https://altera520.github.io/posts/2021-03-02-jdbc/)
-
-### :crying_cat_face: 피드백 & 회고
 
 ------------------------------------------------------
 
@@ -48,8 +68,6 @@
 - [프로그래머스 - 배달](https://programmers.co.kr/learn/courses/30/lessons/12978) solving
 - [프로그래머스 - 기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) solving
 
-### :crying_cat_face: 피드백 & 회고
-
 ------------------------------------------------------      
 
 ## **7주차** (2021-02-15)
@@ -68,12 +86,6 @@
 - Hugo 블로그에 Algolia 적용완료 (정리중)
     - Algolia 적용 방법은 포스트 작성완료 후 공유예정
 
-### :crying_cat_face: 피드백 & 회고
-- 맹목적으로 행하는 것은 지양할 것.
-- 항상 새로운 개념에 대해 why, definition, pros, cons, result에 대한 답을 내릴 것.
-- 최소한의 시간으로 최대한의 아웃풋을 낼 수 있도록 속도를 낼 것.
-- 상원이를 통해서 leetcode에도 좋은 문제가 많다는 것을 알게되었다. 백준, 프로그래머스 외에도 leetcode도 활용할 수 있도록 해야겠다.
-
 ------------------------------------------------------      
 
 ## **5주차** (2021-02-01)
@@ -88,8 +100,6 @@
 ### :punch: 이행 결과물
 - [Tomcat 정리](http://altera520.github.io/posts/2021-01-12-tomcat/)
 
-### :crying_cat_face: 피드백 & 회고
-
 ------------------------------------------------------      
 
 ## **4주차** (2021-01-25)
@@ -103,9 +113,6 @@
 
 ### :punch: 이행 결과물
 - [Exception, Error 처리 전략](https://altera520.github.io/posts/2021-01-30-exception/)
-
-### :crying_cat_face: 피드백 & 회고
-- 생각이 복잡해서 마음이 많이 흔들렸던 한 주 였다. 목표를 설정하고 달성하지 않은게 많다. 다음주차부터는 다시금 집중해서 앞으로 나아가자.
 
 ------------------------------------------------------      
 
@@ -125,8 +132,6 @@
 - Tomcat
     - java의 사용자 정의 클래스 로더와 설명을 연계하여      
     Tomcat과 같은 WAS에서는 클래스로더가 어떠한 방식으로 동작하는지를 다음주차 목표에 포함하여 정리할 예정
-
-### :crying_cat_face: 피드백 & 회고
 
 ------------------------------------------------------      
 
@@ -148,10 +153,6 @@
 - [SOLID](https://www.notion.so/OOP-cc86d1a941ef4a5396dfe43a078e8ba0)
 - [AVL](https://www.notion.so/AVL-Tree-2ea8c240a6d74cfc89ef133c0cc76178)
 - [Red Black](https://www.notion.so/Red-Black-Tree-RB-Tree-cc1ae0707d7642f9a63fa7647924879c)
-
-### :crying_cat_face: 피드백 & 회고
-- 2주 연속으로 설정한 목표를 제대로 이행하지 못했다. 조급함을 내려놓고 새로 설정하는 목표는 수행가능한 목표들로만 설정해야겠다.
-- 개념을 설명할 때, 듣는이를 생각하여 간단명료하게 설명하기
 
 ------------------------------------------------------      
 
@@ -176,7 +177,3 @@
     - 학습하였으나 부분적으로만 정리 (01-11 이전까지 완전히 정리예정)
 - [MST](https://github.com/Altera520/Altera520.github.io/blob/main/content/posts/2020-12-31-mst.md)
     - 학습하였으나 부분적으로만 정리 (01-11 이전까지 완전히 정리예정)
-
-### :crying_cat_face: 피드백 & 회고
-- 설정한 목표를 제대로 이행하지 못했다. 다음주차에는 이행가능한 목표가 될 수 있도록 목표의 범위를 적당히 설정하고 꾸준함을 가질 수 있도록 해야겠다.
-- 또한, 새로운 개념 및 이론들을 학습해나가기전에 과거에 공부했던 개념들을 다시금 정리하고 진행할 수 있도록 해야겠다.
