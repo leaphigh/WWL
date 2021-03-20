@@ -34,10 +34,9 @@
 - `coco`
     - LeetCode Problem Solving & Posting
 - `jaehong2`
+    - 교재를 통한 학습(학교에서 알려주지 않는 17가지..)
     - Spring FrameWork 학습
     - 자료구조 학습
-      - 1.이론 공부(각 자료구조의 정의, 장단점, 특징 etc..)
-      - 2.알고리즘을 문제를 통해 자료구조 알기
 ## 일정
 ### 스터디 참여 현황
 | 주차   | 일자      | 특이사항 |
