@@ -36,7 +36,7 @@
 * [Word Ladder 문제 풀이](https://leetcode.com/problems/word-ladder/)
 
 ### :scroll: **결과**
-* :white_large_square: [Word Ladder 문제 풀이](https://leetcode.com/problems/word-ladder/)
+* :ballot_box_with_check: [Word Ladder 문제 풀이](https://leetcode.com/problems/word-ladder/)
 
 ### :pencil2: 회고 및 피드백
 
