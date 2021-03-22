@@ -29,6 +29,23 @@
 :ballot_box_with_check:
  -->
 
+<details><summary> :calendar: [12주차] 03/22 - 03/27 </summary>
+<p>
+
+### :dart: **목표**
+* [Course Sechedule 문제 풀이](https://leetcode.com/problems/course-schedule/)
+
+### :scroll: **결과**
+* :white_large_square: [Course Sechedule 문제 풀이](https://leetcode.com/problems/course-schedule/)
+
+### :pencil2: 회고 및 피드백
+
+
+</p>
+</details>
+
+
+
 <details><summary> :calendar: [11주차] 03/15 - 03/20 </summary>
 <p>
 
@@ -39,6 +56,7 @@
 * :ballot_box_with_check: [Word Ladder 문제 풀이](https://leetcode.com/problems/word-ladder/)
 
 ### :pencil2: 회고 및 피드백
+2021 상반기 LINE 신입 공채 코딩테스트를 봤다. 4/7문제 밖에 못풀었지만 아쉬움이 남는다기 보다는 오히려 즐거웠던 시험 이였다. 근래들어 집중력이 거의 최하 수준 이였는데 코딩테스트를 보며 무언가에 이렇게 몰입했던 경험이 언제였나 싶을 정도였다. 그리고 알고리즘 문제를 주에 1~2문제씩 밖에 못 풀어서 자신감이 많이 떨어진 상태였는데 생각보다 풀 수 있었던 문제가 있었던 점에서 놀랐고 자신감도 어느 정도 채워졌다.
 
 </p>
 </details>
