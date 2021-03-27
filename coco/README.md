@@ -36,7 +36,7 @@
 * [Course Sechedule 문제 풀이](https://leetcode.com/problems/course-schedule/)
 
 ### :scroll: **결과**
-* :white_large_square: [Course Sechedule 문제 풀이](https://leetcode.com/problems/course-schedule/)
+* :ballot_box_with_check: [Course Sechedule 문제 풀이](https://leetcode.com/problems/course-schedule/)
 
 ### :pencil2: 회고 및 피드백
 
