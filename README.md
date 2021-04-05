@@ -28,9 +28,9 @@
 
 ## 주제
 - `altera520`
-    - 운영체제, 네트워크 이론 정리
-    - PintOS 학습
-    - Problem Solving
+    - 백엔드 실무사례 학습 및 유즈케이스별 샘플 프로젝트 작성
+    - 네트워크에 대해 전반적인 학습
+    - AWS Certified Cloud Practitioner 취득목표 
 - `coco`
     - Leetcode PS
 - `jaehong2`
