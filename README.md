@@ -34,9 +34,8 @@
 - `coco`
     - Leetcode PS
 - `jaehong2`
-    - 교재를 통한 학습(학교에서 알려주지 않는 17가지..)
-    - Spring FrameWork 학습
-    - 자료구조 학습
+    - JSP, Spring 학습
+    - 자료구조, 알고리즘 학습
 
 ## 일정
 | 주차    | 일자       |

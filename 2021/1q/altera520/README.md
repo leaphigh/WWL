@@ -186,3 +186,7 @@
 - [KMP](https://github.com/Altera520/Altera520.github.io/blob/main/content/posts/2021-01-01-kmp.md)
     - 학습하였으나 부분적으로만 정리 (01-11 이전까지 완전히 정리예정)
 - [MST](https://github.com/Altera520/Altera520.github.io/blob/main/content/posts/2020-12-31-mst.md)
+<<<<<<< HEAD
+=======
+    - 학습하였으나 부분적으로만 정리 (01-11 이전까지 완전히 정리예정)
+>>>>>>> ba6d72257ad89201d6885d7aa2782ff358b91b1b

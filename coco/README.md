@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # :point_right: 주간 목표 및 성과
 
 
@@ -291,3 +292,50 @@
 * 오랜만에 발표를 하니 간단한 설명인데도 불구하고 시작 부터 필요 이상으로 호흡이 가빠지며 붕 뜨는 느낌을 받았다. 호흡이 가빠지다 보니 말속도도 빨라지며 그에 따라 발음이 새는 등 연쇄적으로 문제들이 터지기 시작했다. 다음주(2주차) 스터디에서는 이러한 문제점들을 인식하고 호흡을 가라앉히는 등 의도적으로 텐션과 목소리를 낮춰서 발표해봐야겠다.
 </p>
 </details>
+=======
+# :point_right: 주간 목표 및 성과
+
+
+<!--
+
+<details><summary> :calendar: [n주차] 00/00 - 00/00 </summary>
+<p>
+
+### :dart: **목표**
+* 
+
+### :scroll: **결과**
+*
+
+
+### :scroll: **결과**
+* 
+
+### :pencil2: 회고 및 피드백
+* 
+
+</p>
+</details>
+
+:white_large_square:
+:ballot_box_with_check:
+
+-->
+
+<details><summary> :calendar: [14주차] 04/05 - 04/10 </summary>
+<p>
+
+### :dart: **목표**
+* [Is Graph Bipartite? 문제 풀이](https://leetcode.com/problems/course-schedule/)
+
+### :scroll: **결과**
+* :white_large_square: [Is Graph Bipartite? 문제 풀이](https://leetcode.com/problems/is-graph-bipartite/)
+
+### :pencil2: 회고 및 피드백
+
+
+</p>
+</details>
+
+
+>>>>>>> ba6d72257ad89201d6885d7aa2782ff358b91b1b
